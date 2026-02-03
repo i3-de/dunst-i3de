@@ -1,3 +1,7 @@
+> [!WARNING]
+>
+> This fork of Dunst is specifically intended for use with i3-de.
+
 [![main][main-badge]][main-link] [![extra][extra-badge]][extra-link] [![codecov][codecov-badge]][codecov-link]
 
 [main-badge]: https://github.com/dunst-project/dunst/actions/workflows/main.yml/badge.svg?branch=master
